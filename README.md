@@ -65,6 +65,9 @@ Request :
   "price" : 0.00
 	
 }
+## Run Admin
+
+just type : *npm start* 
 
 
 
