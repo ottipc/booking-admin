@@ -69,6 +69,11 @@ Request :
 
 just type : *npm start* 
 
+## DEMO
+
+Actual running Demo : http://37.61.202.252:3000/
+
+
 
 
 
